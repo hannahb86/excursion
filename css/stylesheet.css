@@ -1,0 +1,44 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+/* Typography */
+h1 {
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: 300px;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: grey;
+}
+
+.download-link {
+    font-size: 16px;
+    color: aquamarine;
+    display: block;
+    text-align: center;
+    background-color: black;
+}
+
+
+/* Layout */
+header {
+    background-color: black;
+    text-align: center;
+}
+
+footer {
+    float: right;
+    font-size: 14px;
+    color: gray;
+}
